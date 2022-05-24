@@ -1,3 +1,5 @@
+# You can modify the bacth_size (e.g., 96, 128) to get similar results.
+
 python3 main_trans.py --audio_dir=./feats/vggish/ --audio_enc=1 --audio_smoothing=1 --aug_type=ada \
 --augment=1 --batch_size=64 --before_audio_smoothing=1 --before_vis_smoothing=0.9 --decay=0.5 --decay_epoch=7 \
 --delta=0.85 --forward_dim=512 --init_epoch=2 --is_a_ori=0 --is_v_ori=0 --lr=7e-05 --mode=train --num_head=1 \
