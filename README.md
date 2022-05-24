@@ -5,7 +5,7 @@
 
 This is the PyTorch implementation of our paper: <br>
 **Exploring Cross-Video and Cross-Modality Signals for Weakly-Supervised Audio-Visual Video Parsing**<br>
-[Yan-Bo Lin](https://genjib.github.io/), [Hung-Yu Tseng](https://hytseng0509.github.io/), [Hsin-Ying Lee](http://hsinyinglee.com/), [Yen-Yu Lin](https://sites.google.com/site/yylinweb/), and [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/)
+[Yan-Bo Lin](https://genjib.github.io/), [Hung-Yu Tseng](https://hytseng0509.github.io/), [Hsin-Ying Lee](http://hsinyinglee.com/), [Yen-Yu Lin](https://sites.google.com/site/yylinweb/), and [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/)<br>
 Advances in Neural Information Processing Systems (NeurIPS), 2021 <br>
 
 [paper](https://openreview.net/pdf?id=V5V1vGrI2z) | [dataset](https://github.com/YapengTian/AVVP-ECCV20) 
